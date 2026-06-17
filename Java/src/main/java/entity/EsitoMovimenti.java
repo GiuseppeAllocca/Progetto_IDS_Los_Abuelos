@@ -1,0 +1,8 @@
+package entity;
+
+public enum EsitoMovimenti {
+    MANCATA_DISPONIBILITA,
+    SUCCESSO_MOVIMENTO,
+    MOVIMENTO_FALLITO,
+    SUCCESSO_MOVIMENTO_CON_NOTIFICA
+}
