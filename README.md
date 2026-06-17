@@ -80,7 +80,7 @@ Java_Project/
 ### 1. Clona il repository
 
 ```bash
-git clone <url-del-repository>
+git clone https://github.com/GiuseppeAllocca/Progetto_IDS_Los_Abuelos.git
 cd Java_Project
 ```
 
