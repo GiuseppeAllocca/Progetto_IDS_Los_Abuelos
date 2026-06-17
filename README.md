@@ -33,7 +33,7 @@ Sistema desktop per la gestione di un magazzino, sviluppato in Java con interfac
 ## Struttura del progetto
 
 ```
-IDS_JavaProject/
+Java_Project/
 ├── pom.xml
 └── src/main/java/
     ├── it/unina/
@@ -81,7 +81,7 @@ IDS_JavaProject/
 
 ```bash
 git clone <url-del-repository>
-cd IDS_JavaProject
+cd Java_Project
 ```
 
 ### 2. Crea lo schema del database su MySQL
