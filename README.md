@@ -6,15 +6,15 @@ Sistema desktop per la gestione di un magazzino, sviluppato in Java con interfac
 
 ## Indice
 
-- [Requisiti di sistema](#-requisiti-di-sistema)
-- [Tecnologie utilizzate](#-tecnologie-utilizzate)
-- [Struttura del progetto](#-struttura-del-progetto)
-- [Installazione e configurazione](#-installazione-e-configurazione)
-- [Primo avvio: inizializzazione del database](#-primo-avvio-inizializzazione-del-database)
-- [Avvio dell’applicazione](#-avvio-dellapplicazione)
-- [Credenziali di accesso](#-credenziali-di-accesso)
-- [Funzionalità per ruolo](#-funzionalità-per-ruolo)
-- [Configurazione notifiche email (opzionale)](#-configurazione-notifiche-email-opzionale)
+- [Requisiti di sistema](#requisiti-di-sistema)
+- [Struttura del progetto](#struttura-del-progetto)
+- [Installazione e configurazione](#installazione-e-configurazione)
+- [Primo avvio: inizializzazione del database](#primo-avvio-inizializzazione-del-database)
+- [Avvio dell’applicazione](#avvio-dellapplicazione)
+- [Credenziali di accesso](#credenziali-di-accesso)
+- [Funzionalità per ruolo](#funzionalità-per-ruolo)
+- [Dati di riferimento](#dati-di-riferimento)
+- [Configurazione notifiche email (opzionale)](#configurazione-notifiche-email-opzionale)
 
 -----
 
