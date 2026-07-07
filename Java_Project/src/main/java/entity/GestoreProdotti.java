@@ -60,14 +60,8 @@ public class GestoreProdotti {
 		prodotto.setPosizione(nuovaPos);
 		prodotto.setSoglia(nuovaSoglia);
 
-		/*
-							IMPORTANTE !!!
-		Questo controllo dovrebbe essere superfluo visto che controlloSottoScorta viene già chiamato dal Controller.
-		Sarebbe il controllo per verificare che il prodotto sia diventato sotto scorta o meno
-		 */
-
-		//GestoreMovimenti gestoreMovimenti = new GestoreMovimenti();
-		//gestoreMovimenti.controlloSottoScorte(prodotto);
+		GestoreMovimenti gestoreMovimenti = new GestoreMovimenti();
+		gestoreMovimenti.controlloSottoScorte(prodotto);
 
 		Prodotto aggiornato = gestorePersistenza.aggiorna(prodotto);
 
