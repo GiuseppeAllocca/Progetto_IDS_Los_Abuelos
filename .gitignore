@@ -3,3 +3,8 @@
 # Escludere le chiavi API locali
 src/main/resources/config.properties
 target/
+
+# Escludere lock file e backup automatici nella cartella Visual Paradigm
+VisualParadigm/*.vpp.lck
+VisualParadigm/.*.vpp.lck
+VisualParadigm/*.vpp.bak_*
