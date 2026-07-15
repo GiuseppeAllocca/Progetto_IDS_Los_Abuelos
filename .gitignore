@@ -1,7 +1,7 @@
 /target/
 .DS_Store
 # Escludere le chiavi API locali
-src/main/resources/config_example.properties
+Java_Project/src/main/resources/config_example.properties
 target/
 
 # Escludere lock file e backup automatici nella cartella Visual Paradigm
