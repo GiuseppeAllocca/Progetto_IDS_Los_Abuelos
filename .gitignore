@@ -1,10 +1,14 @@
+# Build Maven/Gradle
 /target/
-.DS_Store
-# Escludere le chiavi API locali
-Java_Project/src/main/resources/config_example.properties
 target/
 
-# Escludere lock file e backup automatici nella cartella Visual Paradigm
+# File di sistema macOS
+.DS_Store
+
+# Chiavi API locali
+Java_Project/src/main/resources/config_example.properties
+
+# Lock file e backup automatici Visual Paradigm
 VisualParadigm/*.vpp.lck
 VisualParadigm/.*.vpp.lck
 VisualParadigm/*.vpp.bak_*
